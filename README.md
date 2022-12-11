@@ -28,4 +28,4 @@ an activity schedule, the system uses the same terms residents describe their do
 Therefore, recommendations can be more easily integrated into daily life supporting the acceptance
 of the system in a long-term perspective.
 
-**Keywords:** Activity Prediction  Recommendation System  Demand Response  Energy Efficiency  CO2 Emissions
+**Keywords:** Activity Prediction, Recommendation System, Demand Response, Energy Efficiency, CO2 Emissions
